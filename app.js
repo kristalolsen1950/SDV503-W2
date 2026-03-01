@@ -11,3 +11,6 @@ let homeAdress = "123 main road"
 let userAge = 30;
 
 console .log("userAge")
+console .log (typeof userAge)
+
+
